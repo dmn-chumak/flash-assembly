@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Flash test</title>
+        <script src="./flash.js"></script>
+    </head>
+    <body>
+        <div id="stats"></div>
+        <div id="stage"></div>
+
+        <script>
+            let flash = new Flash();
+
+            if (flash.isContextAvailable()) {
+                flash.compose('flash.wasm', 'stage', 800, 600);
+            }
+        </script>
+    </body>
+</html>

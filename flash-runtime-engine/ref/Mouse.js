@@ -1,0 +1,3 @@
+function FlashMouse() {
+    return this;
+}

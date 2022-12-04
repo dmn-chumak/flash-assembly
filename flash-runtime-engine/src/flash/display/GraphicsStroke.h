@@ -1,0 +1,4 @@
+#ifndef FLASH_GRAPHICSSTROKE_H
+#define FLASH_GRAPHICSSTROKE_H
+
+#endif

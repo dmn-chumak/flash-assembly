@@ -1,0 +1,3 @@
+function FlashKeyboard() {
+    return this;
+}

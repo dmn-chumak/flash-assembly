@@ -1,0 +1,4 @@
+#ifndef FLASH_GRAPHICSPATH_H
+#define FLASH_GRAPHICSPATH_H
+
+#endif
